@@ -1,0 +1,15 @@
+{
+  "name": "api-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "server": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "annkanokwon",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.27.2"
+  }
+}
